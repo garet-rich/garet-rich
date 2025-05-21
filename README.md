@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Garet! I'm a software dev in NL
+- 👋 Hi, I’m Garet! I'm a software dev in NL.
 
 <!---
 garet-rich/garet-rich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
